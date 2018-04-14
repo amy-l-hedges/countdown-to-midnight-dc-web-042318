@@ -6,7 +6,7 @@ def countdown(num_of_seconds)
   while counter > 0
   sleep 1
   puts phrase
-  counter = counter -= 1
+  num_of_seconds -= 1
 end
 end
 

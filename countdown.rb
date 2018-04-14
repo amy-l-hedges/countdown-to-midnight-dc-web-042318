@@ -9,3 +9,5 @@ def countdown(num_of_seconds)
   num_of_seconds -= 1 = x
 end
 end
+
+countdown(9)

@@ -8,3 +8,5 @@ def countdown(num_of_seconds)
   num_of_seconds -= 1
 end
 end
+
+countdown(5)

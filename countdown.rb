@@ -7,3 +7,4 @@ def countdown(num_of_seconds)
   puts phrase
   counter = counter -= 1
 end
+end

@@ -7,6 +7,7 @@ def countdown(num_of_seconds)
   puts phrase
   num_of_seconds -= 1
 end
+
 end
 
 countdown(5)

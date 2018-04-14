@@ -7,5 +7,5 @@ def countdown(num_of_seconds)
   puts phrase
   num_of_seconds -= 1
 end
-puts "HAPPY NEW YEAR!"
+return "HAPPY NEW YEAR!"
 end

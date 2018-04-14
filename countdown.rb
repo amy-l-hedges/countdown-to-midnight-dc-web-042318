@@ -9,3 +9,5 @@ def countdown(num_of_seconds)
   counter = counter -= 1
 end
 end
+
+countdown(6)

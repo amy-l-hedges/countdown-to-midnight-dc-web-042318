@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(num_of_seconds)
-  counter = 0
+  counter = num_of_seconds
   phrase = "#{number_of_seconds} seconds!"
   while counter > num_of_seconds
 end

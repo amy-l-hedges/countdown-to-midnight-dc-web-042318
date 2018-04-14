@@ -9,5 +9,3 @@ def countdown(num_of_seconds)
 end
 puts "HAPPY NEW YEAR!"
 end
-
-countdown(5)

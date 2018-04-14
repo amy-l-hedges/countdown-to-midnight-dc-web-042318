@@ -2,7 +2,7 @@
 
 def countdown(num_of_seconds)
   counter = num_of_seconds
-  phrase = "#{number_of_seconds} seconds!"
+  phrase = "#{number_of_seconds} SECOND(S)!"
   while counter > 0
   sleep 1
   puts phrase
